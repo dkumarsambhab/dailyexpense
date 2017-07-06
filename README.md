@@ -1,1 +1,1 @@
-# dailyexpense
+This is a small project I have made just to make things simpler for students who always face some problems to keep track their expenses. I have just tried to solve those problems. In this project one can sign up and login. After that he/she can enter his purpose for expense and amount. After that he/she can get reports daily basis, monthly basis or between two dates basis.
