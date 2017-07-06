@@ -1,0 +1,15 @@
+RewriteEngine On
+
+RewriteRule ^Login/?$ login.php
+
+RewriteRule ^SignUp/?$ signup.php
+
+RewriteRule ^Main/?$ main_page.php
+
+RewriteRule ^Add/?$ addExpense.php
+
+RewriteRule ^Check/?$ checkExpense.php
+
+RewriteRule ^Modify/?$ modifyExpense.php
+
+RewriteRule ^Update/?$ updateAccount.php
